@@ -1,5 +1,5 @@
 # -Bootcamp-design-system
-Projeto Frontend realizado durante o bootcamp IgnitLab !"
+Projeto Frontend realizado durante o bootcamp IgnitLab !
 
 💻 Projetando a tela e o design no Figma do zero.
 
